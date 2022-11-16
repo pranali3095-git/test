@@ -1,0 +1,10 @@
+2022-11-16 15:37:53,495 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-16 15:39:55,279 [Worker-10: Creating project "GIT_Demo"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demos.git:GIT_Demo:0.0.1-SNAPSHOT @ /Users/ameydeshmukh/Engineering/My_Projects/Practise/GIT/GIT_Demo/pom.xml.
+2022-11-16 15:39:55,962 [Worker-10: Creating project "GIT_Demo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GIT_Demo/src/main/java
+2022-11-16 15:39:55,964 [Worker-10: Creating project "GIT_Demo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GIT_Demo/src/main/resources
+2022-11-16 15:39:55,965 [Worker-10: Creating project "GIT_Demo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GIT_Demo/src/test/java
+2022-11-16 15:39:55,965 [Worker-10: Creating project "GIT_Demo"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /GIT_Demo/src/test/resources
+2022-11-16 15:39:56,937 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-16 15:39:56,949 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-11-16 15:39:56,953 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-11-16 15:39:56,954 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
